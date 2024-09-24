@@ -1,10 +1,7 @@
 ## Bu proje, C# programlama dili ve Windows Forms teknolojisi kullanılarak geliştirilmiş bir kullanıcı kayıt ve giriş uygulamasıdır. Uygulama, kullanıcıların hesap oluşturmasını ve mevcut hesaplarla giriş yapmasını sağlayan basit ve kullanıcı dostu bir arayüze sahiptir.
 
 
- Kayıt ekranı
-![Image](kayıtekranı.png)
- Giriş ekranı
-![Image](loginekranı.png)
+ ## 
 
 
 
