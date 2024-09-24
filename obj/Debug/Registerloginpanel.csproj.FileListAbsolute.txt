@@ -1,0 +1,16 @@
+C:\Users\abdbz\source\repos\Registerloginpanel\bin\Debug\Registerloginpanel.exe.config
+C:\Users\abdbz\source\repos\Registerloginpanel\bin\Debug\Registerloginpanel.exe
+C:\Users\abdbz\source\repos\Registerloginpanel\bin\Debug\Registerloginpanel.pdb
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.csproj.AssemblyReference.cache
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.Form1.resources
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.loginpanel.resources
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.Properties.Resources.resources
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.csproj.GenerateResource.cache
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.csproj.CoreCompileInputs.cache
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.exe
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.pdb
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.resultpanel.resources
+C:\Users\abdbz\source\repos\Registerloginpanel\bin\Debug\Registerloginpanel.exe.manifest
+C:\Users\abdbz\source\repos\Registerloginpanel\bin\Debug\Registerloginpanel.application
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.exe.manifest
+C:\Users\abdbz\source\repos\Registerloginpanel\obj\Debug\Registerloginpanel.application
